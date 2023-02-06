@@ -1,0 +1,8 @@
+a{
+  text-decoration: none;
+  transition: background-color 0.5s;
+}
+
+a:hover{
+  color: gold;
+}
